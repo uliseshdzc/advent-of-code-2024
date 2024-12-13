@@ -1,5 +1,4 @@
 import re
-from itertools import starmap
 from sympy import solve, Symbol
 from common.utils import get_input
 
